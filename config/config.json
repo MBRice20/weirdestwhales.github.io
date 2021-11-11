@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE2bB093C43334FcE27E396C61682d7fB003b7883",
+  "SCAN_LINK": "https://polygonscan.com/address/0xE2bB093C43334FcE27E396C61682d7fB003b7883",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Weirdest Whales",
+  "SYMBOL": "WW",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/weirdestwhales",
+  "SHOW_BACKGROUND": true
+}
